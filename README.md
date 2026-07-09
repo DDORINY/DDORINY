@@ -1,4 +1,4 @@
-도하 | AI Service Developer
+# 도하 | AI Service Developer
 
 온라인 마케팅·운영 경험을 바탕으로, 실제 서비스 흐름을 이해하고 AI 기능을 웹 서비스에 연결하는 개발자를 지향합니다.
 
@@ -17,10 +17,9 @@ Portfolio: https://ddoriny.com/
 | Project         | Description                            | Tech                            |
 | --------------- | -------------------------------------- | ------------------------------- |
 | STACCATO        | CCTV 기반 차량 정차/이상징후 탐지 관제 시스템           | YOLO, Flask, Next.js, MySQL, VM |
-| LogLens AI      | GitHub Actions 실패 로그 분석 및 리포트 생성 서비스   | FastAPI, Next.js, GitHub API    |
+| 404 Project     | 사용자 이탈을 줄이기 위한 404 페이지 및 예외 흐름 개선 프로젝트 | Next.js, TypeScript             |
 | CommerceOps ERP | 쇼핑몰 + 관리자 ERP 풀스택 프로젝트                 | Spring Boot, Next.js, MySQL     |
 | Tarot Note      | 감성 기록형 웹 서비스                           | Next.js, TypeScript             |
-| 404 Project     | 사용자 이탈을 줄이기 위한 404 페이지 및 예외 흐름 개선 프로젝트 | Next.js, TypeScript             |
 
 ## Strength
 
